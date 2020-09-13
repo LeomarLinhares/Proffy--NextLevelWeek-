@@ -10,7 +10,7 @@ Proffy é uma aplicação básica onde professores podem publica o horário de s
 Criado entre os dias 3 e 7 de agosto de 2020.
 
 ## Minha experiência
-Realmente é uma aceleração no conhecimento. Em uma semana eu, durante a trilha discovery, consegui obter conhecimentos necessários para melhorar meus desafios como estudante. O que mais gostei de aprende foi como criar funções anônimas e curtas.
+Realmente é uma aceleração no conhecimento. Em uma semana eu, durante a trilha discovery, consegui obter conhecimentos necessários para melhorar meus desafios como estudante. O que mais gostei de aprender foi como criar funções anônimas e curtas.
 
     () => {
 	    return algumaCoisa()
