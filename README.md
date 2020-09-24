@@ -1,6 +1,9 @@
 # Proffy (Next Level Week)
 Proffy é a aplicação desenvolvida durante as aulas da Next Level Week organizada pela [Rocketseat](https://rocketseat.com.br), contando com duas trilhas: **Discovery**, voltada aos iniciantes na programação e; **Omnistack**, trilha voltada aos programadores plenos.
 
+![Proffy](https://user-images.githubusercontent.com/65812830/94162987-b3317d00-fe5d-11ea-88c8-782d6e3ba75a.gif)
+
+
 ## Next Level Week
 Com a metodologia simples de mostrar na prática a criação de uma aplicação do absoluto zero, a Rocketseat trás um bombardeio de informações e conhecimentos atualizados em uma única semana. Totalmente de graça e livre para todos que quiserem participar. Com direito a um grupo no Discord onde todos os alunos se ajudam e fazem seu networking.
 A semana conta também com premiações em sorteios para quem completa os desafios dos dias.
